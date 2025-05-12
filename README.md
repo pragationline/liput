@@ -1,2 +1,2 @@
-pragationline
-liput
+# pragationline
+# liput
